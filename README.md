@@ -11,8 +11,8 @@
     <h1>Michelle Roberts</h1>
     <nav>
       <a href="http://www.coursera.org" target="_blank">One</a>
-      <a href="https://www.edx.org/" target="_blank">Two</a>
-      <a href="https://www.udacity.com/" target="_blank">Three</a>
+      <a href="https://www.yahoo.com/" target="_blank">Two</a>
+      <a href="https://www.youtubecom/" target="_blank">Three</a>
       <a href="https://codepen.io/ni3bobade/" target="_blank">Four</a>
     </nav>
   </header>
@@ -44,8 +44,7 @@
     </details>
   </section>
 
-  <!-- 9. Best/proper way to create a footer that has an image, paragraph, and link. Be careful, that paragraph includes a special entity -->
-  <footer>
+   <footer>
     <p>
       <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Intro to web design logo"> This page was created by Michelle Roberts  &amp; Collen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com/">Intro to Web Design.</a>
     </p>
