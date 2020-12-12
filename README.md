@@ -1,5 +1,3 @@
-# webdesignforanyone.github.io
-website for Web Design for Anyone
 <!DOCTYPE html>
 
 <head>
