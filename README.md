@@ -2,7 +2,7 @@
 
 <head>
     <meta charset="UTF-8">
-  <meta name="author" content="Nitin Bobade">
+  <meta name="author" content="Michelle Roberts">
   <title>Michelle Roberts</title>
 </head>
 
